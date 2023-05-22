@@ -17,6 +17,7 @@ Put you [open-ai token](https://platform.openai.com/account/api-keys) at line `4
 ```python
 ./main.py
 ```
+![Image](https://i.imgur.com/k9tOo4J.png)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
