@@ -13,7 +13,11 @@ pip install openai==0.26.5
 Put you [open-ai token](https://platform.openai.com/account/api-keys) at line `4`
 
 ## Usage
-
+```bash
+git clone https://github.com/ayu2606/image-generator.git
+cd image-generator
+pip install -r requirements.txt
+```
 ```python
 ./main.py
 ```
