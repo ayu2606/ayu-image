@@ -1,6 +1,6 @@
-# Image Generator
+# Ayu Image- Ai Image generator
 
-Image Generator is simple program that uses open ai's api to generate images.
+Ayu Image is simple program that uses open ai's api to generate images.
 
 ## Installation
 
